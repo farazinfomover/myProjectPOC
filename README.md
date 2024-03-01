@@ -1,4 +1,4 @@
-**Install dependencies**
+**Installed dependencies**
 
    npm init --y
    npm install express mongoose
